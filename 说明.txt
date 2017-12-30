@@ -1,27 +1,27 @@
-ÍøÒ×ÔÆÒôÀÖAPI
-1.»ñÈ¡¸èÇúÐÅÏ¢
+ç½‘æ˜“äº‘éŸ³ä¹API
+1.èŽ·å–æ­Œæ›²ä¿¡æ¯
 Full request URI: http://music.163.com/api/song/detail/?id=28377211&ids=%5B28377211%5D
-URL£º
+URLï¼š
 
 GET  http://music.163.com/api/song/detail/
 
-±ØÒª²ÎÊý£º
+å¿…è¦å‚æ•°ï¼š
 
-id£º¸èÇúID
+idï¼šæ­Œæ›²ID
 
-ids£º²»ÖªµÀ¸ÉÊ²Ã´ÓÃµÄ£¬ÓÃ[]À¨ÆðÀ´µÄ¸èÇúID
-2.»ñÈ¡¸è´Ê
+idsï¼šä¸æ¸…æ¥šæ„ä¹‰ä½•åœ¨ï¼Œç”¨[]æ‹¬èµ·æ¥çš„æ­Œæ›²ID
+2.èŽ·å–æ­Œè¯
 URI: http://music.163.com/api/song/lyric?os=pc&id=93920&lv=-1&kv=-1&tv=-1
-URL£º
+URLï¼š
 
 GET http://music.163.com/api/song/lyric
 
-±ØÒª²ÎÊý£º
+å¿…è¦å‚æ•°ï¼š
 
-id£º¸èÇúID
+idï¼šæ­Œæ›²ID
 
-lv£ºÖµÎª-1£¬ÎÒ²Â²âÓ¦¸ÃÊÇÅÐ¶ÏÊÇ·ñËÑË÷lyric¸ñÊ½
+lvï¼šå€¼ä¸º-1ï¼Œä¼¼ä¹Žæ˜¯åˆ¤æ–­æ˜¯å¦æœç´¢lyricæ ¼å¼
 
-kv£ºÖµÎª-1£¬Õâ¸öÖµÃ²ËÆ²¢²»Ó°Ïì½á¹û£¬ÒâÒå²»Ã÷
+kvï¼šå€¼ä¸º-1ï¼Œè¿™ä¸ªå€¼è²Œä¼¼å¹¶ä¸å½±å“ç»“æžœï¼Œæ„ä¹‰ä¸æ˜Ž
 
-tv£ºÖµÎª-1£¬ÊÇ·ñËÑË÷tlyric¸ñÊ½
+tvï¼šå€¼ä¸º-1ï¼Œæ˜¯å¦æœç´¢tlyricæ ¼å¼
